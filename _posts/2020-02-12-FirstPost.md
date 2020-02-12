@@ -2,7 +2,7 @@
 layout: post
 title:  "First Post using Jekyll!"
 date:   2020-02-12 18:22:30 +0930
-image: ttps://disney.github.io/images/munki_logo.png
+image: https://disney.github.io/images/munki_logo.png
 categories: jekyll update
 
 ---
